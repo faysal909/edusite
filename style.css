@@ -1,0 +1,40 @@
+
+h1{
+    margin: 1px solid black ;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-style: oblique;
+    color:tomato;
+    background-color: greenyellow;
+    margin: 10px 500px;
+    border-radius: 50px;
+   
+}
+/*p{
+    
+    border: 5px solid yellow;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    color:teal;
+    background-color:wheat;
+    font-size: 25px;
+}*/
+.col-sm-6{
+    margin-top: 20px;
+}
+
+.h2-dec{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    color: tan;
+}
+.stylish-p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+    
