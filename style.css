@@ -1,5 +1,5 @@
 
-h1{
+h1{                                     /* start the first H1 of  */
     margin: 1px solid black ;
     font-size: 50px;
     text-align: center;
@@ -22,8 +22,14 @@ h1{
     background-color:wheat;
     font-size: 25px;
 }*/
-.col-sm-6{
+
+.col-sm-5{
+    margin-left: 65px;
     margin-top: 20px;
+    border: 2px solid ghostwhite;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
 }
 
 .h2-dec{
@@ -35,6 +41,50 @@ h1{
 .stylish-p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 17px;
+}
+#mydiv{
+  background-color:yellow;
+  width:200px;
+  height:100px;
+  box-shadow: 10px 10px 10px 50px gray;
+  margin-bottom: 20px;
+  margin-left: 550px;
+  margin-top: 20px;
+  
+
+}
+/*.nav01{
+  height: 55px;
+  margin: 2%;
+  width: 100%;
+  border: 1px solid gray; 
+  background-color:rgba(122, 115, 115, 0.329);
+  border-radius: 2px;
+  
+}*/
+.left-float{
+    float: right;
+    margin-top: 12px;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   
+}
+li{
+    display: inline;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
 }
 
     
